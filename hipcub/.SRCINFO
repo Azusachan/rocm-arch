@@ -5,7 +5,6 @@ pkgbase = hipcub
 	url = https://docs.amd.com/bundle/hipCUB-release-rocm-rel-5.2/page/introduction.html
 	arch = x86_64
 	license = custom
-	makedepends = cmake
 	makedepends = rocm-cmake
 	makedepends = git
 	makedepends = hip
